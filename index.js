@@ -1,35 +1,72 @@
 const inquirer = require('inquirer');
 const fs = require('fs');
 
-
-
-
 inquirer
     .prompt([
         {
             type: 'input',
-            name: 'name',
-            message: 'What is your name?',
+            name: 'projectTitle',
+            message: 'What is the title of your project?',
         },
         {
             type: 'input',
-            name: 'city',
-            message: 'In what city are you located?',
+            name: 'description',
+            message: 'Provide a short description of your project.',
         },
         {
             type: 'input',
-            name: 'bio',
-            message: 'Tell a little about yourself.',
+            name: 'installInstructions',
+            message: 'Provide instructions about how to install this project.',
         },
         {
             type: 'input',
-            name: 'github',
-            message: 'What is your github username?',
+            name: 'placeholderName',
+            message: 'This is a placeholder message',
         },
+        {
+            type: 'input',
+            name: 'placeholderName',
+            message: 'This is a placeholder message',
+        },
+        {
+            type: 'input',
+            name: 'placeholderName',
+            message: 'This is a placeholder message',
+        },
+        {
+            type: 'input',
+            name: 'placeholderName',
+            message: 'This is a placeholder message',
+        },
+        {
+            type: 'input',
+            name: 'placeholderName',
+            message: 'This is a placeholder message',
+        },
+        {
+            type: 'input',
+            name: 'placeholderName',
+            message: 'This is a placeholder message',
+        },
+        {
+            type: 'input',
+            name: 'placeholderName',
+            message: 'This is a placeholder message',
+        },
+        {
+            type: 'input',
+            name: 'placeholderName',
+            message: 'This is a placeholder message',
+        },
+        
+        
 
     ])
 
     .then((data) => {
         console.log(data);
 
-        console.log(data.name);
+        console.log(data.projectTitle);
+
+
+    });
