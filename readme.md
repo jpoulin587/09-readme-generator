@@ -12,8 +12,9 @@ This is simple terminal based app that will let you create professional readme f
 - [Tests](#tests)
 - [Questions](#questions)
 - [License](#license)
+- [Video Walkthrough](#video-walkthrough)
 
-## Instillation
+## Installation
 You can activate this app by running "npm init" and loading the packages needed to make it run.
 
 ## Usage
@@ -44,7 +45,7 @@ The above copyright notice and this permission notice shall be included in all c
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-## Video walkthrough
+## Video Walkthrough
 
 A short video of the functionality of this project can be found at the link below.
 
