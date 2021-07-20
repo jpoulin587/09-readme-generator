@@ -15,10 +15,10 @@ This is simple terminal based app that will let you create professional readme f
 
 
 ## Instillation
-You can activate this app by undefined
+You can activate this app by running "npm init" and loading the packages needed to make it run.
 
 ## Usage
-You can make use of this app by following these directions:  Type "node index" and andwer the questions.   
+You can make use of this app by following these directions:  Type "node index" and answering the questions.  The more complete the questions the better your end product will be. 
 
 ## Contributing
 You can find this project on GitHub at the following link:
@@ -31,7 +31,7 @@ https://github.com/jpoulin587/readme-generator-09
 5. Open a Pull Request
 
 These steps are unique to this project:
-Type "node index" and andwer the questions.  
+If you make changes, reach out to me via email and let me know.  
 
 ## Questions
 If you have any questions or comments about this app please send me an email at: jpoulin587a@gmail.com 

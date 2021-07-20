@@ -20,7 +20,7 @@ ${data.description}
 
 
 ## Instillation
-You can activate this app by ${data.installation}
+You can activate this app by ${data.installInstructions}
 
 ## Usage
 You can make use of this app by following these directions:  ${data.usage} 
@@ -36,7 +36,7 @@ ${data.gitHubLink}
 5. Open a Pull Request
 
 These steps are unique to this project:
-${data.usage}
+${data.contributing}
 
 ## Questions
 If you have any questions or comments about this app please send me an email at: ${data.questions} 
