@@ -4,8 +4,7 @@ let chosenLicense
 
 const generateReadme = (data) =>
     `
-# Project Title 
-${data.projectTitle}
+# ${data.projectTitle}
 
 ## Description
 ${data.description}
