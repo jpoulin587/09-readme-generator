@@ -13,7 +13,6 @@ This is simple terminal based app that will let you create professional readme f
 - [Questions](#questions)
 - [License](#license)
 
-
 ## Instillation
 You can activate this app by running "npm init" and loading the packages needed to make it run.
 
