@@ -19,7 +19,7 @@ ${data.description}
 - [License](#license)
 
 
-## Instillation
+## Installation
 You can activate this app by ${data.installInstructions}
 
 ## Usage
